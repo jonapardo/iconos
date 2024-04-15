@@ -1,0 +1,28 @@
+div{
+text-align: center;
+color: green;
+font-size:200px;
+}
+body h1{
+text-align: center;
+color:red;
+font-size:100px;
+}
+
+div.telegram{
+text-align:right;
+color:blue;
+font-size:200px;
+}
+
+body h2{
+text-align: center;
+color:red;
+font-size:100px;
+}
+
+h1.icono{
+    text-align:left;
+    color:chartreuse;
+    font-size:200px;
+    }
